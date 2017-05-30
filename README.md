@@ -1,7 +1,7 @@
 # js-tools
 
 Official Node.js based Docker container with useful tools when 
-writing JavaScript applications.test
+writing JavaScript applications.
 
 ## Base Image
 
